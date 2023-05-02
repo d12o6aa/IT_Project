@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    box-sizing: border-box;
+    background-color: rgba(128, 128, 128, 0.658);
+}
+.one{
+    width: 350px;
+    height: 550px;
+    margin-top: 50px;
+    margin-left: 450px;
+    padding: 10px 10px 10px 80px;
+    background-color: white;
+    border-radius: 15px;
+}
+input{
+    height: 23px;
+    width: 250px;
+    border-radius: 8px;
+    border-color: blue;
+    padding-left: 8px;
+}
+h1{
+    color: blue;
+    margin-left: 40px;
+}
+.submit{
+    margin-left: 50px;
+    width: 150px;
+    height: 30px;
+    background-color: rgb(0, 89, 255);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: larger;
+}

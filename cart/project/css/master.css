@@ -1,0 +1,129 @@
+header {
+    width: 100vw;
+    height: 100vh;
+    background-color: #34495e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    background-color: white;
+    width: 800px;
+    min-height: 500px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.right {
+    padding: 20px;
+}
+
+
+form input[type="text" ]{
+    width: 340px;
+    padding: 10px;
+    outline: none;
+}
+
+form input[type="email" ]{
+    width: 340px;
+    padding: 10px;
+    outline: none;
+}
+
+
+form input[type="phone" ]{
+    width: 340px;
+    padding: 10px;
+    outline: none;
+}
+
+
+form input[type="number" ]{
+    padding: 10px;
+    outline: none;
+    
+}
+
+
+.inline-block {
+    display: inline-block;
+}
+
+#city {
+    padding: 10px;
+    outline: none;
+}
+
+
+
+.left {
+    padding: 20px;
+}
+
+
+form input[type="text" ]{
+    width: 340px;
+    padding: 10px;
+    outline: none;
+}
+
+form input[type="email" ]{
+    width: 340px;
+    padding: 10px;
+    outline: none;
+}
+
+
+form input[type="phone" ]{
+    width: 340px;
+    padding: 10px;
+    outline: none;
+}
+
+
+form input[type="number" ]{
+    padding: 10px;
+    outline: none;
+    
+}
+
+
+.inline-block {
+    display: inline-block;
+}
+
+#city {
+    padding: 10px;
+    outline: none;
+}
+
+
+
+#sub {
+    width: 340px;
+    padding: 10px;
+    outline: none;
+    background-color: lightblue;
+}
+
+#roto {
+    width: 340px;
+    padding: 10px;
+    outline: none;
+}
+
+
+#my {
+    width: 340px;
+    padding: 10px;
+    outline: none;
+}
+
+#tr {
+    padding: 10px;
+    outline: none;
+}
+
